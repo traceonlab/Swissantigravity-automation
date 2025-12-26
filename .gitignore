@@ -1,0 +1,14 @@
+# ملفات حساسة
+.env
+bot.pid
+bot.log
+*.zip
+*.tar.gz
+
+# مجلدات تثبيت
+node_modules/
+npm-debug.log*
+
+# ملفات مؤقتة
+.DS_Store
+Thumbs.db
